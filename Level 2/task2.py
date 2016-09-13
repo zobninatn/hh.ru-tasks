@@ -28,7 +28,6 @@ def search(input_sequence):
             if input_string_index == lenght:
                 find_status = True
                 return next_step_number - lenght
-
 def printer(result):
     print("First occurrence at index {}.").format(result)
 
