@@ -1,5 +1,5 @@
 # hh.ru-tasks
-Test tasks for admission to dev school wried in python.
+Test tasks for admission to dev school writed in python.
 
 Scripts are easy to run - just execute it :)
 
