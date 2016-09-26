@@ -1,5 +1,4 @@
-package com.company.hh;
-
+package hh1;
 /**
  * Created by zobninatn on 06.09.16.
  */
